@@ -1,7 +1,8 @@
 # Список проектов
 Подробнее о каждом можно узнать в его README файле
 
-[Сад Слов](https://github.com/paperplane011/wordcon)
+[Сад Слов](https://github.com/paperplane011/wordcon)  
+
 [Отличник? Докажи!](https://github.com/paperplane011/Victorinia)
 
 <!--
