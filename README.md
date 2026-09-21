@@ -1,6 +1,9 @@
 # Список проектов
 Подробнее о каждом можно узнать в его README файле
 
+[Сад Слов](https://github.com/paperplane011/wordcon)
+[Отличник? Докажи!](https://github.com/paperplane011/Victorinia)
+
 <!--
 **paperplane011/paperplane011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
