@@ -5,6 +5,8 @@
 
 * [Отличник? Докажи!](https://github.com/paperplane011/Victorinia)
 
+* [7:30](https://github.com/paperplane011/730)
+
 <!--
 **paperplane011/paperplane011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
