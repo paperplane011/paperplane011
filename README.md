@@ -1,8 +1,6 @@
 # Список проектов
 Проекты в списке идут от новых к старым. Подробнее о каждом можно узнать в его README файле.
 
-* [HelpDesk](https://github.com/paperplane011/HelpDesk)
-
 * [Сад Слов](https://github.com/paperplane011/wordcon)  
 
 * [Отличник? Докажи!](https://github.com/paperplane011/Victorinia)
